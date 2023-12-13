@@ -7,7 +7,7 @@ Date: 13 December 2023
 
 World Geography Final Exam Paper © 2023 by Christian Morgan is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-#**Russian Control of the Black Sea Disrupts the Wheat Supply Chain**
+# **Russian Control of the Black Sea Disrupts the Wheat Supply Chain**
 
   On February 24, 2022, Russia launched a full-scale invasion of Ukraine (Ray, 2023). The invasion escalated the Russia-Ukraine War, which began in 2014 with the Russian occupation of the Republic of Crimea and a separatist insurgency in eastern Ukraine. In Ukraine and Southern Russia, forests transition into “steppe environments dominated by grasslands and by [chernozem soil]” (Price, 2019), perfect for grain, specifically wheat. Ukraine and Russia are responsible for 12% and 17% of the world’s wheat exports, respectively (Lin et al., 2023), and wheat provides around 20% of the world's calories for human consumption (Guiterrez, 2017). Countries such as Somalia and Egypt depend upon Eurasian wheat imports. In July 2023, Russia opted out of a deal brokered by the United Nations to allow Ukraine to export commercial food and fertilizer from the Black Sea (n.d., United Nations). The collapse of the Black Sea Grain Initiative (BSGI) is disruptive because it has pressured other wheat exporters to increase their supply and increased food insecurity in regions like North Africa.
  
