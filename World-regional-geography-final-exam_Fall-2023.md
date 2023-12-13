@@ -1,6 +1,9 @@
 Name: Christian “Titi” Morgan
+
 Class: GEO 102
+
 Date: 13 December 2023
+
 
 World Geography Final Exam Paper © 2023 by Christian Morgan is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
